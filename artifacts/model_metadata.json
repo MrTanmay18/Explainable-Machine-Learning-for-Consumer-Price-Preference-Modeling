@@ -1,0 +1,10 @@
+{
+  "source": "Values reported in the training notebook (sections 9-11). Informational only; not used for prediction.",
+  "model_name": "XGBoost (RandomizedSearchCV-tuned)",
+  "cv_accuracy": 0.926692,
+  "test_accuracy": 0.927093,
+  "macro_f1": 0.92,
+  "train_test_split": "75/25, random_state=42",
+  "rows_after_cleaning": 29956,
+  "test_rows": 7489
+}

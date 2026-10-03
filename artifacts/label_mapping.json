@@ -1,0 +1,7 @@
+{
+  "_comment": "Reconstructed from notebook section 7.3: sklearn LabelEncoder sorts labels alphabetically. Confirmed by the confusion-matrix axis order in section 11.4.",
+  "0": "100-150",
+  "1": "150-200",
+  "2": "200-250",
+  "3": "50-100"
+}

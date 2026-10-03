@@ -1,0 +1,29 @@
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# IDE
+.vscode/
+.idea/
+
+# Environment / secrets
+.env
+.streamlit/secrets.toml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Testing / cache
+.pytest_cache/
+.mypy_cache/
+.coverage
+
+# Logs
+*.log
